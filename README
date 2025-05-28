@@ -1,2 +1,5 @@
 Docker:
 https://hub.docker.com/repository/docker/ralphmettle/tbi_incubator_test_fullstack/
+
+Please use:
+docker run -p 8080:8080 ralphmettle/tbi_incubator_test_fullstack:latest
